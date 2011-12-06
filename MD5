@@ -1,0 +1,14 @@
+aef06813b1bdd80f9a6c243405e5c1c5 *DESCRIPTION
+22ca849f7f936d558126ee97d466e49c *NAMESPACE
+e250a4a831ed4edc14e4901ba9cb87ae *NEWS
+8cdeb0a284f6786254426b5bec0e1e90 *R/fetch_NBAPlayerStatistics.R
+1cca9936c8843baedc3b66e84ef6d412 *data/EURO4PlayerSkillsSep11.RData
+227a871e6b5586e09f8df7e24b95918e *data/NBAPlayerStatistics0910.RData
+57ca6fd8974dae0f52b1f027136f8e53 *demo/00Index
+6d170fabdb5a9869c1d545063447d512 *demo/archeplayers-nba-2d.R
+cea1740e95f9e6e7a537d5178282e249 *demo/archeplayers-nba.R
+43679a9af4b0351b52e143954a1b750c *demo/archeplayers-soccer-2d.R
+cd3eff928279747d6f8f2b819c6a13ca *demo/archeplayers-soccer.R
+a845ba2a1b8aa7a8724b19472b02737d *man/EURO4PlayerSkillsSep11.Rd
+020dc34b59c5c41f3a7e9792bd6508c7 *man/NBAPlayerStatistics0910.Rd
+4d98ba9600d229bf269d51f5b27e4eea *man/fetch_NBAPlayerStatistics.Rd
