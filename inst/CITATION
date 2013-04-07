@@ -1,0 +1,55 @@
+ 
+citEntry(entry = "techreport",
+         title = "Measuring Concentration in Data with an Exogenous Order",
+         author = personList(as.person("Jasmin Abedieh"),
+                             as.person("Andreas Groll"), 
+                             as.person("Manuel J. A. Eugster")),
+         institution = "Institut fuer Statistik, Ludwig-Maximilians-Universitaet Muenchen, Germany",
+         year = "2013",
+         type = "Technical Report",
+         number = "140",
+         url = "http://epub.ub.uni-muenchen.de/14603/",
+
+         header = "To cite the generalized concentration measure in publications use:",
+
+         textVersion = paste("Jasmin Abedieh, Andreas Groll, and Manuel J. A. Eugster.",
+                             "Measuring Concentration in Data with an Exogenous Order.",
+                             "Technical Report 140, Institut fuer Statistik, Ludwig-Maximilians-Universitaet Muenchen, Germany.",
+                             "http://epub.ub.uni-muenchen.de/14603")
+)
+
+citEntry(entry = "Article",
+         title = "Performance Profiles based on Archetypal Athletes",
+         author = personList(as.person("Manuel J. A. Eugster")),
+         journal = "International Journal of Performance Analysis in Sport",
+         year = "2012",
+         volume = "12",
+         number = "1",
+         url = "http://epub.ub.uni-muenchen.de/12336/",
+         pages = "166--187",
+         url = "http://www.ingentaconnect.com/content/uwic/ujpa/2012/00000012/00000001/art00016",
+         arxiv = "http://arxiv.org/abs/1110.1972",
+
+         header = "To cite archetypal athletes in publications use:",
+
+         textVersion = paste("Manuel J. A. Eugster.",
+                             "Performance Profiles based on Archetypal Athletes.",
+                             "International Journal of Performance Analysis in Sport, 12(1):166-187, 2012.",
+                             "http://www.ingentaconnect.com/content/uwic/ujpa/2012/00000012/00000001/art00016")
+)
+
+citEntry(entry = "Manual",
+         title = "SportsAnalytics: Infrastructure for Sports Analytics",
+         author = personList(as.person("Manuel J. A. Eugster")),
+         year = "2011",
+         note = "R package version 0.2",
+         url = "http://soccer.r-forge.r-project.org/",
+
+         header = "To cite package SportsAnalytics in publications use:",
+
+         textVersion = paste("Manuel J. A. Eugster.",
+	                     "SportsAnalytics: Infrastructure for Sports Analytics.",
+                             "R package version 0.1",
+                             "http://soccer.r-forge.r-project.org/")
+)
+

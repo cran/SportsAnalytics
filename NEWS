@@ -1,4 +1,14 @@
 
+Changes in SportsAnalytics version 0.2
+
+  o Added demo for the concentration measure of transfer spendings in
+    the German Bundesliga.
+
+  o Added "generalized" concentration measures for data with an
+    exogenous order; see '?concentration_index'.
+
+  o Updated citations.
+
 Changes in SportsAnalytics version 0.1
 
   o Initial version.

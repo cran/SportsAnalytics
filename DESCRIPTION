@@ -1,9 +1,9 @@
 Package: SportsAnalytics
 Type: Package
 Title: Infrastructure for Sports Analytics
-Version: 0.1
-Date: 2011-12-06
-Depends: methods, stats
+Version: 0.2
+Date: 2013-04-07
+Depends: R (>= 2.10), methods, stats
 Suggests: archetypes
 Author: Manuel J. A. Eugster <manuel.eugster@stat.uni-muenchen.de>
 Maintainer: Manuel J. A. Eugster <manuel.eugster@stat.uni-muenchen.de>
@@ -14,7 +14,8 @@ Description: The aim of this package is to provide infrastructure for
         represent general concepts of sports analysis.
 URL: http://soccer.r-forge.r-project.org/
 License: GPL (>= 2)
-Collate: 'fetch_NBAPlayerStatistics.R'
-Packaged: 2011-10-12 16:25:22 UTC; vadmin
+Collate: 'fetch_NBAPlayerStatistics.R' 'concentration.R'
+Packaged: 2013-04-07 17:21:31 UTC; mjaeugster
+NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2011-10-12 18:00:45
+Date/Publication: 2013-04-07 19:44:27
